@@ -8,9 +8,13 @@ Projects Overview
 This project explores the concept of the Metaverse, its potential impact, and challenges. It examines the following aspects:
 
 Introduction to Metaverse: Understanding the basics and significance of the Metaverse in today's digital world.
+
 Challenges: Key issues like hardware limitations, identity theft, privacy concerns, and addiction.
+
 Stakeholders: Analysis of major companies involved, including Meta, Google, Microsoft, and others.
+
 Unlocking Metaverse with AI: Focus on avatars, digital humans, and AI-driven interactions.
+
 Conclusion: Insights on the future of the Metaverse and its implications.
 
 2. Deepfake Analysis
